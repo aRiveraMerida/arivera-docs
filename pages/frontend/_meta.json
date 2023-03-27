@@ -1,0 +1,12 @@
+{
+  "jsxReact": "JSX en ReactJS",
+  "*": {
+    "theme": {
+      "breadcrumb": false,
+      "footer": true,
+      "sidebar": true,
+      "toc": false,
+      "pagination": true
+    }
+  }
+}
