@@ -31,7 +31,7 @@ const config: DocsThemeConfig = {
     };
   },
   project: {
-    link: "https://github.com/lethamburn/starwars-databank-docs",
+    link: "https://github.com/aRiveraMerida/arivera-docs",
     icon: (
       <Image
         src="/images/thunder.png"
