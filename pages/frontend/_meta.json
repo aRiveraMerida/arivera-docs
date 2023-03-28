@@ -1,5 +1,5 @@
 {
-  "jsxReact": "JSX en ReactJS",
+  "image-react": "Componente Desacoplado Image ReactJS",
   "*": {
     "theme": {
       "breadcrumb": false,

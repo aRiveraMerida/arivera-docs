@@ -1,5 +1,10 @@
 {
-  "jsxReact": "JSX en ReactJS",
+  "figma": "Figma Developers",
+  "desing-system-tokens": "Desing System Tokens",
+  "como-integrar-un-design-system-sin-morir-en-el-intento": "Cómo integrar un Design System sin morir en el intento",
+  "desing-system-css": "Desing System con CSS3",
+  "integrar-design-system-react-styled-components": "Integrando Design Systems con React y Styled Components",
+  "desing-system-react": "Design System con ReactJS & Styleds",
   "*": {
     "theme": {
       "breadcrumb": false,
